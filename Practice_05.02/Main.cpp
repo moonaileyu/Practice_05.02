@@ -49,7 +49,7 @@ public:
 		{
 			charCount++;
 
-			if (c == ' ')
+			if (c == ' ' || c == '\n')
 			{
 				word = false;
 			}
