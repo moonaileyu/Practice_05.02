@@ -74,9 +74,9 @@ public:
 			return;
 		}
 
-		file << "Char count: " << charCount << endl;
-		file << "Word count: " << wordCount << endl;
-		file << "Line count: " << lineCount << endl;
+		file << "Number of characters: " << charCount << endl;
+		file << "Number of words: " << wordCount << endl;
+		file << "Number of lines: " << lineCount << endl;
 	}
 };
 
