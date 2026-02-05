@@ -34,7 +34,7 @@ public:
 		string line;
 		while (getline(file, line))
 		{
-			text += line;
+			text += line + '\n';
 			lineCount++;
 		}
 
