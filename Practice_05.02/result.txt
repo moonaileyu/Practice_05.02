@@ -1,0 +1,3 @@
+Char count: 20
+Word count: 1
+Line count: 3
